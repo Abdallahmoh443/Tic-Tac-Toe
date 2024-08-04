@@ -27,6 +27,7 @@ This is a simple command-line Tic-Tac-Toe game implemented in Python. The game a
 4  |  5  |  6
 -------------
 7  |  8  |  9
+
 Enter available place: 5
 
 1  |  2  |  X
@@ -41,6 +42,7 @@ Enter available place: 5
 4  |  O  |  6
 -------------
 X  |  8  |  9
+
 Enter available place: 1
 
 O  |  2  |  X
@@ -48,5 +50,6 @@ O  |  2  |  X
 4  |  O  |  6
 -------------
 X  |  8  |  9
+
 ...
 
